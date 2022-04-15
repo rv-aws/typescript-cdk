@@ -1,0 +1,2 @@
+aws-cdk@1.62.0
+typescript
